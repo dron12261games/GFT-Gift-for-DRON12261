@@ -4,7 +4,7 @@ A little preface from me. I didn't take any part in the development of this proj
 
 # STATUS: ✅RELEASED
 
-### Download - [Latest Release](https://github.com/dron12261games/CPL-RRSP1/releases/download/v1/RRSP1.zip)
+### Download - [Latest Release](https://github.com/dron12261games/GFT-Gift-for-DRON12261/releases/download/v1/GFD12261.wad)
 
 # Links (all information inside)
 - [Doomworld](https://www.doomworld.com/forum/topic/141703-mbf21-gift-for-dron12261-a-collective-megawad/)
